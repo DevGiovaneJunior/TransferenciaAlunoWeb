@@ -1,0 +1,298 @@
+﻿@{
+    ViewData["Title"] = "Externas";
+}
+
+
+<!-- Mirrored from coderthemes.com/adminto/vertical/extras-taskboard.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 13 Dec 2018 18:37:48 GMT -->
+<head>
+
+    <link rel="shortcut icon" href="~/assets/images/favicon.ico">
+    <!-- Custom box (Modal) css -->
+    <link href="~/assets/plugins/custombox/dist/custombox.min.css" rel="stylesheet">
+    <!-- Dragula (Drag and drop) css -->
+    <link href="~/assets/plugins/dragula/dragula.min.css" rel="stylesheet">
+    <link href="~/assets/css/estilo.css" rel="stylesheet">
+
+    <!-- App css -->
+    <link href="~/assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="~/assets/css/icons.css" rel="stylesheet" type="text/css" />
+    <link href="~/assets/css/style.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/css/select2.min.css">
+    <link href="~/assets/css/select2-bootstrap.css" rel="stylesheet" type="text/css" />
+    <script src="~/assets/js/modernizr.min.js"></script>
+    <style>
+        .itemSimulacao {
+            cursor: pointer;
+        }
+
+            .itemSimulacao:hover td {
+                font-weight: bold;
+            }
+
+        .select2-container .select2-search__field {
+            width: 100% !important;
+        }
+
+        .statusSimulacao.status-1 {
+            color: #ffc107 !important;
+        }
+
+        .statusSimulacao.status-2 {
+            color: #28a745 !important;
+        }
+
+        .statusSimulacao.status-3 {
+            color: #dc3545 !important;
+        }
+    </style>
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+
+</head>
+<body class="fixed-left" style="padding-bottom: 10px!important;">
+
+    <!-- Begin page -->
+    <div id="wrapper">
+
+        <!-- Top Bar Start -->
+        <div class="topbar">
+
+            <!-- Button mobile view to collapse sidebar menu -->
+            <div class="navbar navbar-default" role="navigation">
+                <div class="container-fluid">
+
+                    <!-- Page title -->
+                    <ul class="nav navbar-nav list-inline navbar-left">
+                        <li class="list-inline-item">
+                            <h1 class="page-title" style="font-size: 25px!important;">Disciplinas Externas</h1>
+                        </li>
+                    </ul>
+                </div><!-- end container -->
+            </div><!-- end navbar -->
+        </div>
+        <!-- Top Bar End -->
+
+    </div>
+    <!-- Left Sidebar End -->
+    <!-- ============================================================== -->
+    <!-- Start right Content here -->
+    <!-- ============================================================== -->
+    <div class="content-page" style="margin-left: 0!important;">
+        <!-- Start content -->
+        <div class="content">
+            <div class="container-fluid">
+                <div class="d-flex justify-content-center">
+                    <form id="frmbusca" class="row col-md-12 mt-3 mb-3" role="form" style="padding-left: 0!important;">
+                        <div class="col-md-2">
+                            <label class="col-form-label" for="ddlano">Ano de Ingresso</label>
+                            <select id="ddlano" class="form-control">
+                                <option value="0">Selecione...</option>
+                                <option>2022</option>
+                                <option>2021</option>
+                                <option>2020</option>
+                                <option>2019</option>
+                                <option>2018</option>
+                            </select>
+                        </div>
+                        <div class="col-md-2">
+                            <label class="col-form-label" for="ddlsemestre">Semestre Ingresso</label>
+                            <select id="ddlsemestre" class="form-control">
+                                <option value="0">Selecione...</option>
+                                <option value="1">1</option>
+                                <option value="2">2</option>
+                            </select>
+                        </div>
+                        <div class="col-md-3">
+                            <label class="col-form-label" for="ddlcurso">Curso</label>
+                            <select id="ddlcurso" class="form-control">
+                                <option value="0">Selecione o Curso...</option>
+                            </select>
+                        </div>
+                        <div class="col-md-4">
+                            <label for="ddlaluno" class="col-form-label">Nome</label>
+                            <select id="ddlaluno" class="form-control">
+                                <option value="0">Selecione o Aluno...</option>
+                            </select>
+                        </div>
+                        <div class="col-md-1" style="padding-top: 2.1rem!important;">
+                            <button type="submit" class="btn btn-primary waves-effect w-md waves-light mb-5">Buscar</button>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="row">
+                    <div class="mt-3 col-md-12">
+                        <!-- Start content -->
+                        <div class="container-fluid">
+                            <div class="col-sm-12">
+                                <div class="card-box" style="text-align: center; font-size: 20px;">
+                                    <label class="list-inline-item" id="cur_nome" style="margin: 0!important;"></label>
+                                </div>
+                            </div><!-- end col -->
+                            <!-- End row -->
+                        </div> <!-- container -->
+                    </div>
+                </div>
+                <div class="row">
+                    <div id="grades" class="col-12 card-box">
+                        <nav>
+                            <div class="nav nav-tabs" id="nav-grades" role="tablist">
+                                <a class="nav-item nav-link" id="nav-modelo" data-toggle="tab" role="tab"></a>
+                            </div>
+                        </nav>
+                        <div id="botaoStatus" class="col-md-12 mt-5" style="text-align: right; display: none;">
+                            <button type="button" id="btnAprovar" class="btn btn-success w-md waves-light mb-2"><i class="mdi mdi-thumb-up-outline iconsClass"></i>Aprovar</button>
+                            <button type="button" id="btnNegar" class="btn btn-danger w-md waves-light mb-2 m-l-5"><i class="mdi mdi-thumb-down-outline iconsClass"></i>Não Aprovar</button>
+                        </div>
+                        <div class="tab-content" id="nav-tabContent">
+                            <div class="tab-pane fade show" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                                <form class="grade_form">
+                                    <div class="row">
+                                    </div>
+                                    <div class="col-md-12" style="text-align: center;">
+                                        <button type="button" id="btnSalvar" class="btn btn-primary waves-effect w-md waves-light">Salvar</button>
+                                    </div>
+                                    <!--<div id="botaoStatus" class="col-md-12" style="text-align: center; display:none;">
+                    <button type="button" id="btnAprovar" class="btn btn-success w-md waves-light mb-5">Aprovar</button>
+                    <button type="button" id="btnNegar" class="btn btn-danger w-md waves-light mb-5">Negar</button>
+                </div>-->
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- end row -->
+            </div> <!-- container -->
+            <div class="col-md-12" style="padding-bottom: 2.1rem!important; text-align: center;">
+                <button id="btnCancelar" type="button" class="btn btn-danger w-md waves-light mb-5" style="padding: 1.5px;"><i class="mdi mdi-close-circle-outline iconsClass"></i>Cancelar</button>
+                <button type="button" class="btn btn-info w-md waves-light mb-5" data-toggle="modal" data-target="#modalBusca" style="padding: 1.5px"><i class="mdi mdi-magnify iconsClass"></i>Localizar</button>
+            </div>
+        </div> <!-- content -->
+        <!-- Modal -->
+        <div id="modalBusca" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Pesquisar</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <p><select id="txtBusca" name="txtBusca" class="form-control"></select></p>
+                    </div>
+                    <div class="modal-footer">
+                        <button id="btnBuscar" type="button" class="btn btn-success">Buscar</button>
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Modal -->
+        <div id="modalSimulacoes" class="modal fade" role="dialog">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Simulações</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="col-12">
+                            Aluno <span class="nomeAluno"></span>
+                        </div>
+                        <table id="tblSimulacoes" class="table">
+                            <thead>
+                                <tr>
+                                    <td>Código</td>
+                                    <td>Data/Hora</td>
+                                    <td>Status</td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr class="modeloSimulacao">
+                                    <td class="codSimulacao"></td>
+                                    <td class="dataHoraSimulacao"></td>
+                                    <td class="statusSimulacao"></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="modal-footer">
+                        <button id="btnBuscar" type="button" class="btn btn-success">Buscar</button>
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer class="d-flex flex-wrap justify-content-between align-items-center pt-3 mt-4 border-top">
+        <a href="/" class="col-md-4 d-flex align-items-center justify-content-center mb-3 mb-md-0 me-md-auto link-dark text-decoration-none">
+            <img class="" id="logotoledofooter" src="/assets/images/LOGOTIPO-TOLEDO_colorida.png" alt="Logo Toledo Prudente" style="display: block; width: 220px;">
+        </a>
+        <p class="col-5 justify-content-end mb-0 text-muted">© 2022 - Toledo Prudente Centro Universitário</p>
+    </footer>
+    <div id="modelos" style="display:none;">
+        <table>
+            <tr id="linhamodelo">
+                <td>
+                    <div class="checkbox-wrapper">
+                        <div class="checkbox checkbox-success checkbox-single">
+                            <input type="checkbox" class="disCodigo"
+                                   aria-label="Selecionar disciplina">
+                            <label></label>
+                        </div>
+                    </div>
+                </td>
+                <td class="nomeDisciplina"></td>
+                <td class="cargaHoraria"></td>
+                <td>
+                    <input type="text" class="form-control justificativa" placeholder="Just. do aproveitamento" aria-label="Just. do aproveitamento" aria-describedby="basic-addon1">
+                </td>
+            </tr>
+        </table>
+        <div id="termoModelo" class="col-lg-6">
+            <div class="card-box">
+                <table class="table">
+                    <thead>
+                        <tr class="thead-light">
+                            <th colspan="4" style="text-align: center;"><span class="numTermo">1</span>° Termo</th>
+                        </tr>
+                        <tr>
+                            <th>#</th>
+                            <th>Disciplina</th>
+                            <th>C. Horária</th>
+                            <th>Justificativa</th>
+                        </tr>
+                    </thead>
+                    <tbody id="itens">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <!-- END wrapper -->
+    <!-- jQuery  -->
+    <script src="~/assets/js/jquery.min.js"></script>
+    <script src="~/assets/js/popper.min.js"></script>
+    <script src="~/assets/js/bootstrap.min.js"></script>
+    <script src="~/assets/js/detect.js"></script>
+    <script src="~/assets/js/fastclick.js"></script>
+    <script src="~/assets/js/jquery.blockUI.js"></script>
+    <script src="~/assets/js/waves.js"></script>
+    <script src="~/assets/js/jquery.nicescroll.js"></script>
+    <script src="~/assets/js/jquery.slimscroll.js"></script>
+    <script src="~/assets/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.3/js/select2.full.js" defer></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/select2/4.0.13/js/i18n/pt-BR.min.js" defer></script>
+    <!-- drgula (Drag and drop) js -->
+    <script src="~/assets/plugins/dragula/dragula.min.js"></script>
+    <!-- Modal-Effect -->
+    <script src="~/assets/plugins/custombox/dist/custombox.min.js"></script>
+    <script src="~/assets/plugins/custombox/dist/legacy.min.js"></script>
+
+    <!-- App js -->
+    <script src="~/assets/js/jquery.core.js"></script>
+    <script src="~/assets/js/jquery.app.js"></script>
+    <script src="~/js/externa.js" asp-append-version="true"></script>
+</body>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kSoWUG2EH98/VTkzeCmjHL92elcnVhaoE9UZQ7y5YvnSM67c9nZoBH7ewmkF2e+uSfrzYyg2SCyd30lpgD2X8g==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\AproveitamentoDisciplinas\\Api.Transfer\\Web.Transfer\\Web.Transfer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tulio\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\5.0.0\\microsoft.netcore.app.runtime.win-x86.5.0.0.nupkg.sha512",
+    "C:\\Users\\tulio\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\5.0.0\\microsoft.windowsdesktop.app.runtime.win-x86.5.0.0.nupkg.sha512",
+    "C:\\Users\\tulio\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\5.0.0\\microsoft.aspnetcore.app.runtime.win-x86.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

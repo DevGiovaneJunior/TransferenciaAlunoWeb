@@ -1,0 +1,282 @@
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\appsettings.json
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.exe
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.deps.json
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.runtimeconfig.json
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.runtimeconfig.dev.json
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.dll
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\ref\Web.Transfer.dll
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.pdb
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.Views.dll
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.Views.pdb
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.AssemblyInfoInputs.cache
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.AssemblyInfo.cs
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.csproj.CoreCompileInputs.cache
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorAssemblyInfo.cache
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorAssemblyInfo.cs
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\staticwebassets\Web.Transfer.StaticWebAssets.Manifest.cache
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\staticwebassets\Web.Transfer.StaticWebAssets.xml
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\scopedcss\bundle\Web.Transfer.styles.css
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.TagHelpers.input.cache
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.TagHelpers.output.cache
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorCoreGenerate.cache
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Externa\Index.cshtml.g.cs
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorTargetAssemblyInfo.cache
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorTargetAssemblyInfo.cs
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.Views.pdb
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.dll
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\ref\Web.Transfer.dll
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.pdb
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.genruntimeconfig.cache
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.csproj.CopyComplete
+C:\Users\aocgu\Downloads\Api.Transfer (1)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.csproj.AssemblyReference.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\appsettings.json
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.exe
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.deps.json
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.runtimeconfig.json
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.runtimeconfig.dev.json
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.dll
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\ref\Web.Transfer.dll
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.pdb
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.Views.dll
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.Views.pdb
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.csproj.AssemblyReference.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.AssemblyInfoInputs.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.AssemblyInfo.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.csproj.CoreCompileInputs.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorAssemblyInfo.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorAssemblyInfo.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\staticwebassets\Web.Transfer.StaticWebAssets.Manifest.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\staticwebassets\Web.Transfer.StaticWebAssets.xml
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\scopedcss\bundle\Web.Transfer.styles.css
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.TagHelpers.input.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.TagHelpers.output.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorCoreGenerate.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Externa\Index.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorTargetAssemblyInfo.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorTargetAssemblyInfo.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.Views.pdb
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.dll
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\ref\Web.Transfer.dll
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.pdb
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.genruntimeconfig.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.csproj.CopyComplete
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\appsettings.Development.json
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\appsettings.json
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.StaticWebAssets.xml
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.exe
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.deps.json
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.runtimeconfig.json
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.runtimeconfig.dev.json
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.dll
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\ref\Web.Transfer.dll
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.pdb
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.Views.dll
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.Views.pdb
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.csproj.AssemblyReference.cache
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.AssemblyInfoInputs.cache
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.AssemblyInfo.cs
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.csproj.CoreCompileInputs.cache
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorAssemblyInfo.cache
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorAssemblyInfo.cs
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\scopedcss\bundle\Web.Transfer.styles.css
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\staticwebassets\Web.Transfer.StaticWebAssets.Manifest.cache
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.TagHelpers.input.cache
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.TagHelpers.output.cache
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorCoreGenerate.cache
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Externa\Index.cshtml.g.cs
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorTargetAssemblyInfo.cache
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorTargetAssemblyInfo.cs
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.Views.pdb
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.dll
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\ref\Web.Transfer.dll
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.pdb
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.genruntimeconfig.cache
+D:\Users\Thalita\Downloads\Api.Transfer (2)\Api.Transfer\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.csproj.CopyComplete
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\bin\Debug\net5.0\appsettings.Development.json
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\bin\Debug\net5.0\appsettings.json
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.exe
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.deps.json
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.runtimeconfig.json
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.runtimeconfig.dev.json
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.dll
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.pdb
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.Views.dll
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.Views.pdb
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.csproj.AssemblyReference.cache
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.AssemblyInfoInputs.cache
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.AssemblyInfo.cs
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.csproj.CoreCompileInputs.cache
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorAssemblyInfo.cache
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorAssemblyInfo.cs
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\staticwebassets\Web.Transfer.StaticWebAssets.Manifest.cache
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\staticwebassets\Web.Transfer.StaticWebAssets.xml
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\scopedcss\bundle\Web.Transfer.styles.css
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.TagHelpers.input.cache
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.TagHelpers.output.cache
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorCoreGenerate.cache
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Externa\Index.cshtml.g.cs
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorTargetAssemblyInfo.cache
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorTargetAssemblyInfo.cs
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.Views.pdb
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.dll
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\refint\Web.Transfer.dll
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.pdb
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.genruntimeconfig.cache
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\ref\Web.Transfer.dll
+C:\Projetos\AproveitamentoDisciplinas\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.csproj.CopyComplete
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\bin\Debug\net5.0\appsettings.json
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.exe
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.deps.json
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.runtimeconfig.json
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.runtimeconfig.dev.json
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.dll
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\bin\Debug\net5.0\ref\Web.Transfer.dll
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.pdb
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.Views.dll
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.Views.pdb
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.csproj.AssemblyReference.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.AssemblyInfoInputs.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.AssemblyInfo.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.csproj.CoreCompileInputs.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorAssemblyInfo.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorAssemblyInfo.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\staticwebassets\Web.Transfer.StaticWebAssets.Manifest.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\staticwebassets\Web.Transfer.StaticWebAssets.xml
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\scopedcss\bundle\Web.Transfer.styles.css
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.TagHelpers.input.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.TagHelpers.output.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorCoreGenerate.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Externa\Index.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorTargetAssemblyInfo.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorTargetAssemblyInfo.cs
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.Views.pdb
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.dll
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\ref\Web.Transfer.dll
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.pdb
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.genruntimeconfig.cache
+C:\Users\aocgu\OneDrive\Documentos\Faculdade\7T\VIVIANE\Front\v10\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.csproj.CopyComplete
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\appsettings.json
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.StaticWebAssets.xml
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.exe
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.deps.json
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.runtimeconfig.json
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.runtimeconfig.dev.json
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.dll
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.pdb
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.Views.dll
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\bin\Debug\net5.0\Web.Transfer.Views.pdb
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.csproj.AssemblyReference.cache
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.AssemblyInfoInputs.cache
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.AssemblyInfo.cs
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.csproj.CoreCompileInputs.cache
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorAssemblyInfo.cache
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorAssemblyInfo.cs
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\scopedcss\bundle\Web.Transfer.styles.css
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\staticwebassets\Web.Transfer.StaticWebAssets.Manifest.cache
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.TagHelpers.input.cache
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.TagHelpers.output.cache
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorCoreGenerate.cache
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Externa\Index.cshtml.g.cs
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorTargetAssemblyInfo.cache
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.RazorTargetAssemblyInfo.cs
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.Views.pdb
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.dll
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\refint\Web.Transfer.dll
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.pdb
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.genruntimeconfig.cache
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\ref\Web.Transfer.dll
+C:\Users\ACT\Downloads\Api.Transfer (3)\Api.Transfer\Web.Transfer\obj\Debug\net5.0\Web.Transfer.csproj.CopyComplete
