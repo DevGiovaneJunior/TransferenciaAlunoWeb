@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACT\\Downloads\\Transferencia.Aluno.API\\Api.Transfer\\Web.Transfer\\Web.Transfer.csproj",
+      "projectUniqueName": "C:\\Users\\ACT\\Downloads\\TransferenciaAlunoAPI\\Api.Transfer\\Web.Transfer\\Web.Transfer.csproj",
       "projectName": "Web.Transfer",
-      "projectPath": "C:\\Users\\ACT\\Downloads\\Transferencia.Aluno.API\\Api.Transfer\\Web.Transfer\\Web.Transfer.csproj",
+      "projectPath": "C:\\Users\\ACT\\Downloads\\TransferenciaAlunoAPI\\Api.Transfer\\Web.Transfer\\Web.Transfer.csproj",
       "packagesPath": "C:\\Users\\ACT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACT\\Downloads\\Transferencia.Aluno.API\\Api.Transfer\\Web.Transfer\\obj\\",
+      "outputPath": "C:\\Users\\ACT\\Downloads\\TransferenciaAlunoAPI\\Api.Transfer\\Web.Transfer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -13,6 +13,7 @@ namespace Web.Transfer
 {
     public class Startup
     {
+        public string MyAllowSpecificOrigins = "_MyAllowSubdomainPolicy";
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -23,12 +24,22 @@ namespace Web.Transfer
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options =>
+            {
+                options.AddPolicy(name: MyAllowSpecificOrigins,
+                    policy =>
+                    {
+                        policy.WithOrigins("https://alunotransferenciaweb.herokuapp.com");
+                    });
+            });
             services.AddRazorPages();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            app.UseCors(MyAllowSpecificOrigins);
+
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
