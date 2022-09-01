@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACT\\Downloads\\TransferenciaAlunoAPI\\Api.Transfer\\Web.Transfer\\Web.Transfer.csproj": {}
+    "C:\\Users\\ACT\\Downloads\\TransferenciaAlunoWeb\\Web.Transfer\\Web.Transfer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACT\\Downloads\\TransferenciaAlunoAPI\\Api.Transfer\\Web.Transfer\\Web.Transfer.csproj": {
+    "C:\\Users\\ACT\\Downloads\\TransferenciaAlunoWeb\\Web.Transfer\\Web.Transfer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACT\\Downloads\\TransferenciaAlunoAPI\\Api.Transfer\\Web.Transfer\\Web.Transfer.csproj",
+        "projectUniqueName": "C:\\Users\\ACT\\Downloads\\TransferenciaAlunoWeb\\Web.Transfer\\Web.Transfer.csproj",
         "projectName": "Web.Transfer",
-        "projectPath": "C:\\Users\\ACT\\Downloads\\TransferenciaAlunoAPI\\Api.Transfer\\Web.Transfer\\Web.Transfer.csproj",
+        "projectPath": "C:\\Users\\ACT\\Downloads\\TransferenciaAlunoWeb\\Web.Transfer\\Web.Transfer.csproj",
         "packagesPath": "C:\\Users\\ACT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACT\\Downloads\\TransferenciaAlunoAPI\\Api.Transfer\\Web.Transfer\\obj\\",
+        "outputPath": "C:\\Users\\ACT\\Downloads\\TransferenciaAlunoWeb\\Web.Transfer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,6 +43,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.15.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

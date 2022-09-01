@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qbwfwnCN/aJ66f2OwPn+XpRORftj8bAA6UyRWkzdqx4SLKeAWfXrR4kA1+tT116tXjmj7qMcZKeRo5a+urWFHg==",
+  "dgSpecHash": "cFLaUUC0NTxQoHgt3KcomiNBZRKw6UFS1TJWzPfO+cG3AnjOWdLg3hZhPBu6bdlbtHsWkSqoZyYy4j+Wt0muPg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ACT\\Downloads\\TransferenciaAlunoWeb\\Web.Transfer\\Web.Transfer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ACT\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.15.1\\microsoft.visualstudio.azure.containers.tools.targets.1.15.1.nupkg.sha512"
+  ],
   "logs": []
 }
