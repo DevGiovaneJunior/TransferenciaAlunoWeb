@@ -29,7 +29,7 @@ namespace Web.Transfer
                 options.AddPolicy(name: MyAllowSpecificOrigins,
                     policy =>
                     {
-                        policy.WithOrigins("https://alunotransferenciaweb.herokuapp.com");
+                        policy.WithOrigins("https://alunotransferenciaweb.herokuapp.com/");
                     });
             });
             services.AddRazorPages();
